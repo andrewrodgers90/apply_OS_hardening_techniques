@@ -1,1 +1,1 @@
-# apply_OS_hardening_techniques
+# Apply OS hardening techniques
