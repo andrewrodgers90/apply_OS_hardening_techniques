@@ -2,7 +2,7 @@
 
 | Section 1: Identify the network protocol involved in the incident |
 |-------------------------------------------------------------------|
-| The network protocol involved in the incident is the HTTP protocol. This is supported by the fact that the issue was with accessing the webserver for yummyrecipesforme.com, and requests to webservers use http traffic.<br><br>Additionally, the tcpdump log shows the use of the http protocol when contacting the server.<br><br>Finally, the tcpdump log shows the malicious file is delivered to the users’ computers using the http protocol. |
+| The network protocol involved in the incident is the HTTP protocol. This is supported by the fact that the issue was with accessing the webserver for yummyrecipesforme.com, and requests to webservers use http traffic.<br><br>Additionally, the tcpdump log shows the use of the http protocol when contacting the server.<br><br>Finally, the tcpdump log shows the malicious file is delivered to the users’ computers using the http protocol at the application layer. |
 
 <br>
 
